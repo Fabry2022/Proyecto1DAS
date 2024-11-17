@@ -1,0 +1,285 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = IMS.WebApp
+build_property.RootNamespace = IMS.WebApp
+build_property.ProjectDir = C:\Users\alons\OneDrive\Documents\InventoryTechUDB\IMS-Blazor-8-master\IMS.WebApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\alons\OneDrive\Documents\InventoryTechUDB\IMS-Blazor-8-master\IMS.WebApp
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Pages/AccessDenied.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXEFjY2Vzc0RlbmllZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Pages/ConfirmEmail.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXENvbmZpcm1FbWFpbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Pages/ConfirmEmailChange.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXENvbmZpcm1FbWFpbENoYW5nZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Pages/ExternalLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXEV4dGVybmFsTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Pages/ForgotPassword.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXEZvcmdvdFBhc3N3b3JkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Pages/ForgotPasswordConfirmation.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXEZvcmdvdFBhc3N3b3JkQ29uZmlybWF0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Pages/InvalidPasswordReset.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXEludmFsaWRQYXNzd29yZFJlc2V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Pages/InvalidUser.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXEludmFsaWRVc2VyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Pages/Lockout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXExvY2tvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXExvZ2luLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Pages/LoginWith2fa.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXExvZ2luV2l0aDJmYS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Pages/LoginWithRecoveryCode.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXExvZ2luV2l0aFJlY292ZXJ5Q29kZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Pages/ManageUser.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXE1hbmFnZVVzZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Pages/ManageUsers.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXE1hbmFnZVVzZXJzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Pages/Manage/ChangePassword.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXE1hbmFnZVxDaGFuZ2VQYXNzd29yZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Pages/Manage/DeletePersonalData.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXE1hbmFnZVxEZWxldGVQZXJzb25hbERhdGEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Pages/Manage/Disable2fa.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXE1hbmFnZVxEaXNhYmxlMmZhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Pages/Manage/Email.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXE1hbmFnZVxFbWFpbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Pages/Manage/EnableAuthenticator.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXE1hbmFnZVxFbmFibGVBdXRoZW50aWNhdG9yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Pages/Manage/ExternalLogins.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXE1hbmFnZVxFeHRlcm5hbExvZ2lucy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Pages/Manage/GenerateRecoveryCodes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXE1hbmFnZVxHZW5lcmF0ZVJlY292ZXJ5Q29kZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Pages/Manage/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXE1hbmFnZVxJbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Pages/Manage/PersonalData.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXE1hbmFnZVxQZXJzb25hbERhdGEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Pages/Manage/ResetAuthenticator.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXE1hbmFnZVxSZXNldEF1dGhlbnRpY2F0b3IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Pages/Manage/SetPassword.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXE1hbmFnZVxTZXRQYXNzd29yZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Pages/Manage/TwoFactorAuthentication.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXE1hbmFnZVxUd29GYWN0b3JBdXRoZW50aWNhdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Pages/Manage/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXE1hbmFnZVxfSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Pages/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXFJlZ2lzdGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Pages/RegisterConfirmation.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXFJlZ2lzdGVyQ29uZmlybWF0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Pages/ResendEmailConfirmation.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXFJlc2VuZEVtYWlsQ29uZmlybWF0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Pages/ResetPassword.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXFJlc2V0UGFzc3dvcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Pages/ResetPasswordConfirmation.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXFJlc2V0UGFzc3dvcmRDb25maXJtYXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Pages/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXF9JbXBvcnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Shared/AccountLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFNoYXJlZFxBY2NvdW50TGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Shared/ExternalLoginPicker.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFNoYXJlZFxFeHRlcm5hbExvZ2luUGlja2VyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Shared/ManageLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFNoYXJlZFxNYW5hZ2VMYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Shared/ManageNavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFNoYXJlZFxNYW5hZ2VOYXZNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Shared/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFNoYXJlZFxSZWRpcmVjdFRvTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Shared/ShowRecoveryCodes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFNoYXJlZFxTaG93UmVjb3ZlcnlDb2Rlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Account/Shared/StatusMessage.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFNoYXJlZFxTdGF0dXNNZXNzYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Controls/InventoryListComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb250cm9sc1xJbnZlbnRvcnlMaXN0Q29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Controls/InventoryListItemComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb250cm9sc1xJbnZlbnRvcnlMaXN0SXRlbUNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Controls/ProductInventoriesComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb250cm9sc1xQcm9kdWN0SW52ZW50b3JpZXNDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Controls/ProductListComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb250cm9sc1xQcm9kdWN0TGlzdENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Controls/ProductListItemComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb250cm9sc1xQcm9kdWN0TGlzdEl0ZW1Db21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Controls/SearchComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb250cm9sc1xTZWFyY2hDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Layout/TopNavbar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcVG9wTmF2YmFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Pages/Activities/ProduceProduct.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBY3Rpdml0aWVzXFByb2R1Y2VQcm9kdWN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Pages/Activities/PurchaseInventory.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBY3Rpdml0aWVzXFB1cmNoYXNlSW52ZW50b3J5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Pages/Activities/SellProduct.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBY3Rpdml0aWVzXFNlbGxQcm9kdWN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Pages/Inventories/AddInventory.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJbnZlbnRvcmllc1xBZGRJbnZlbnRvcnkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Pages/Inventories/EditInventory.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJbnZlbnRvcmllc1xFZGl0SW52ZW50b3J5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Pages/Inventories/InventoryList.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJbnZlbnRvcmllc1xJbnZlbnRvcnlMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Pages/Products/AddProduct.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9kdWN0c1xBZGRQcm9kdWN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Pages/Products/EditProduct.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9kdWN0c1xFZGl0UHJvZHVjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Pages/Products/ProductList.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9kdWN0c1xQcm9kdWN0TGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Pages/Reports/InventoryTransactionsReport.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSZXBvcnRzXEludmVudG9yeVRyYW5zYWN0aW9uc1JlcG9ydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Pages/Reports/ProductTransactionsReport.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSZXBvcnRzXFByb2R1Y3RUcmFuc2FjdGlvbnNSZXBvcnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Controls/Common/AutoCompleteComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb250cm9sc1xDb21tb25cQXV0b0NvbXBsZXRlQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-0zpt0b9w3d
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Controls/SearchProductInventoriesComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb250cm9sc1xTZWFyY2hQcm9kdWN0SW52ZW50b3JpZXNDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-cehmtkaaqa
+
+[C:/Users/alons/OneDrive/Documents/InventoryTechUDB/IMS-Blazor-8-master/IMS.WebApp/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-rkfayx65e9

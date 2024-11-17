@@ -1,0 +1,1316 @@
+{
+  "Version": 1,
+  "Hash": "nMFOSS0Sna7V0PEL+bbYKBwb1JUnckNZkMvmZB+DEOk=",
+  "Source": "IMS.WebApp",
+  "BasePath": "_content/IMS.WebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "IMS.WebApp\\wwwroot",
+      "Source": "IMS.WebApp",
+      "ContentRoot": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\",
+      "BasePath": "_content/IMS.WebApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\alons\\.nuget\\packages\\chartjs.blazor.fork\\2.0.2\\contentFiles\\any\\netstandard2.1\\wwwroot\\ChartJsBlazorInterop.js",
+      "SourceId": "IMS.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\",
+      "BasePath": "_content/IMS.WebApp",
+      "RelativePath": "ChartJsBlazorInterop#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "49ox6r4gbs",
+      "Integrity": "+LTDLTFQOAzv/Zs6t+iLN+sImMB14wosmwDodz8KGH8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\alons\\.nuget\\packages\\chartjs.blazor.fork\\2.0.2\\contentFiles\\any\\netstandard2.1\\wwwroot\\ChartJsBlazorInterop.js"
+    },
+    {
+      "Identity": "C:\\Users\\alons\\.nuget\\packages\\chartjs.blazor.fork\\2.0.2\\staticwebassets\\ChartJsBlazorInterop.js",
+      "SourceId": "ChartJs.Blazor.Fork",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\alons\\.nuget\\packages\\chartjs.blazor.fork\\2.0.2\\staticwebassets\\",
+      "BasePath": "_content/ChartJs.Blazor.Fork",
+      "RelativePath": "ChartJsBlazorInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "49ox6r4gbs",
+      "Integrity": "+LTDLTFQOAzv/Zs6t+iLN+sImMB14wosmwDodz8KGH8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\alons\\.nuget\\packages\\chartjs.blazor.fork\\2.0.2\\staticwebassets\\ChartJsBlazorInterop.js"
+    },
+    {
+      "Identity": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\IMS.WebApp.styles.css",
+      "SourceId": "IMS.WebApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/IMS.WebApp",
+      "RelativePath": "IMS.WebApp#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "tb957us49h",
+      "Integrity": "eR2CuSlKXGFwHG/s3LMe13HlGHCcU9OOPzKi/7RYlBE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\IMS.WebApp.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\IMS.WebApp.bundle.scp.css",
+      "SourceId": "IMS.WebApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/IMS.WebApp",
+      "RelativePath": "IMS.WebApp#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "tb957us49h",
+      "Integrity": "eR2CuSlKXGFwHG/s3LMe13HlGHCcU9OOPzKi/7RYlBE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\IMS.WebApp.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\app.css",
+      "SourceId": "IMS.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\",
+      "BasePath": "_content/IMS.WebApp",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h6p5421fl3",
+      "Integrity": "uaol5nQ8XZYjii+1/RPbxznzA0v6gHSyxorGWZIYe2Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "IMS.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\",
+      "BasePath": "_content/IMS.WebApp",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bpk8xqwxhs",
+      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "IMS.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\",
+      "BasePath": "_content/IMS.WebApp",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\Devices\\dell_ax51r2_9311bk_alienware_x51_r2_desktop_1132562-3415311556.jpg",
+      "SourceId": "IMS.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\",
+      "BasePath": "_content/IMS.WebApp",
+      "RelativePath": "Devices/dell_ax51r2_9311bk_alienware_x51_r2_desktop_1132562-3415311556#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iqb7r0svv6",
+      "Integrity": "1k0wKpxfPtCJnkakouq1D3tSrjf5iq3VKUfgs7XGtZU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Devices\\dell_ax51r2_9311bk_alienware_x51_r2_desktop_1132562-3415311556.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\Devices\\productos-para-vender-en-linea.jpg",
+      "SourceId": "IMS.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\",
+      "BasePath": "_content/IMS.WebApp",
+      "RelativePath": "Devices/productos-para-vender-en-linea#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zmmk14ufvg",
+      "Integrity": "m4BbGYHuBHQKBmPAg1nBcUAvZjECKSjw3gXYNBsfqw0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Devices\\productos-para-vender-en-linea.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\Devices\\S22-Ultra-1-1152x603-2746006431.jpg",
+      "SourceId": "IMS.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\",
+      "BasePath": "_content/IMS.WebApp",
+      "RelativePath": "Devices/S22-Ultra-1-1152x603-2746006431#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "caskyy1uy1",
+      "Integrity": "NIagoCkS3LdJy9vlvLZNNFC/AyTn3yWwF2IqMqFsElI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Devices\\S22-Ultra-1-1152x603-2746006431.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\Devices\\zbook_studio_img2.jpg",
+      "SourceId": "IMS.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\",
+      "BasePath": "_content/IMS.WebApp",
+      "RelativePath": "Devices/zbook_studio_img2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "08qftpzom4",
+      "Integrity": "gKPXyuuenLIFQhniXcH171RL0W6+CPX5U1m7nps53tM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Devices\\zbook_studio_img2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\favicon.png",
+      "SourceId": "IMS.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\",
+      "BasePath": "_content/IMS.WebApp",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\jsinterop.js",
+      "SourceId": "IMS.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\",
+      "BasePath": "_content/IMS.WebApp",
+      "RelativePath": "jsinterop#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nh7uut2sfk",
+      "Integrity": "leyI0JzDDfm4BFO1s6hCrCQWA6W2czaD3DNX7iJin+Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jsinterop.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "_content/ChartJs.Blazor.Fork/ChartJsBlazorInterop.js",
+      "AssetFile": "C:\\Users\\alons\\.nuget\\packages\\chartjs.blazor.fork\\2.0.2\\staticwebassets\\ChartJsBlazorInterop.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10698"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+LTDLTFQOAzv/Zs6t+iLN+sImMB14wosmwDodz8KGH8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 11 Jan 2021 07:28:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+LTDLTFQOAzv/Zs6t+iLN+sImMB14wosmwDodz8KGH8="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2757"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uaol5nQ8XZYjii+1/RPbxznzA0v6gHSyxorGWZIYe2Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Nov 2024 06:56:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uaol5nQ8XZYjii+1/RPbxznzA0v6gHSyxorGWZIYe2Y="
+        }
+      ]
+    },
+    {
+      "Route": "app.h6p5421fl3.css",
+      "AssetFile": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2757"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uaol5nQ8XZYjii+1/RPbxznzA0v6gHSyxorGWZIYe2Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Nov 2024 06:56:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h6p5421fl3"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uaol5nQ8XZYjii+1/RPbxznzA0v6gHSyxorGWZIYe2Y="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 11 Nov 2024 22:57:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 11 Nov 2024 22:57:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 11 Nov 2024 22:57:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 11 Nov 2024 22:57:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "ChartJsBlazorInterop.49ox6r4gbs.js",
+      "AssetFile": "C:\\Users\\alons\\.nuget\\packages\\chartjs.blazor.fork\\2.0.2\\contentFiles\\any\\netstandard2.1\\wwwroot\\ChartJsBlazorInterop.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10698"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+LTDLTFQOAzv/Zs6t+iLN+sImMB14wosmwDodz8KGH8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 11 Jan 2021 07:28:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "49ox6r4gbs"
+        },
+        {
+          "Name": "label",
+          "Value": "ChartJsBlazorInterop.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+LTDLTFQOAzv/Zs6t+iLN+sImMB14wosmwDodz8KGH8="
+        }
+      ]
+    },
+    {
+      "Route": "ChartJsBlazorInterop.js",
+      "AssetFile": "C:\\Users\\alons\\.nuget\\packages\\chartjs.blazor.fork\\2.0.2\\contentFiles\\any\\netstandard2.1\\wwwroot\\ChartJsBlazorInterop.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10698"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+LTDLTFQOAzv/Zs6t+iLN+sImMB14wosmwDodz8KGH8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 11 Jan 2021 07:28:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+LTDLTFQOAzv/Zs6t+iLN+sImMB14wosmwDodz8KGH8="
+        }
+      ]
+    },
+    {
+      "Route": "Devices/dell_ax51r2_9311bk_alienware_x51_r2_desktop_1132562-3415311556.iqb7r0svv6.jpg",
+      "AssetFile": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\Devices\\dell_ax51r2_9311bk_alienware_x51_r2_desktop_1132562-3415311556.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39977"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1k0wKpxfPtCJnkakouq1D3tSrjf5iq3VKUfgs7XGtZU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Nov 2024 06:29:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iqb7r0svv6"
+        },
+        {
+          "Name": "label",
+          "Value": "Devices/dell_ax51r2_9311bk_alienware_x51_r2_desktop_1132562-3415311556.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1k0wKpxfPtCJnkakouq1D3tSrjf5iq3VKUfgs7XGtZU="
+        }
+      ]
+    },
+    {
+      "Route": "Devices/dell_ax51r2_9311bk_alienware_x51_r2_desktop_1132562-3415311556.jpg",
+      "AssetFile": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\Devices\\dell_ax51r2_9311bk_alienware_x51_r2_desktop_1132562-3415311556.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39977"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1k0wKpxfPtCJnkakouq1D3tSrjf5iq3VKUfgs7XGtZU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Nov 2024 06:29:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1k0wKpxfPtCJnkakouq1D3tSrjf5iq3VKUfgs7XGtZU="
+        }
+      ]
+    },
+    {
+      "Route": "Devices/productos-para-vender-en-linea.jpg",
+      "AssetFile": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\Devices\\productos-para-vender-en-linea.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "156454"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m4BbGYHuBHQKBmPAg1nBcUAvZjECKSjw3gXYNBsfqw0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Nov 2024 07:16:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-m4BbGYHuBHQKBmPAg1nBcUAvZjECKSjw3gXYNBsfqw0="
+        }
+      ]
+    },
+    {
+      "Route": "Devices/productos-para-vender-en-linea.zmmk14ufvg.jpg",
+      "AssetFile": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\Devices\\productos-para-vender-en-linea.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "156454"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m4BbGYHuBHQKBmPAg1nBcUAvZjECKSjw3gXYNBsfqw0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Nov 2024 07:16:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zmmk14ufvg"
+        },
+        {
+          "Name": "label",
+          "Value": "Devices/productos-para-vender-en-linea.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-m4BbGYHuBHQKBmPAg1nBcUAvZjECKSjw3gXYNBsfqw0="
+        }
+      ]
+    },
+    {
+      "Route": "Devices/S22-Ultra-1-1152x603-2746006431.caskyy1uy1.jpg",
+      "AssetFile": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\Devices\\S22-Ultra-1-1152x603-2746006431.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63001"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NIagoCkS3LdJy9vlvLZNNFC/AyTn3yWwF2IqMqFsElI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Nov 2024 06:32:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "caskyy1uy1"
+        },
+        {
+          "Name": "label",
+          "Value": "Devices/S22-Ultra-1-1152x603-2746006431.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NIagoCkS3LdJy9vlvLZNNFC/AyTn3yWwF2IqMqFsElI="
+        }
+      ]
+    },
+    {
+      "Route": "Devices/S22-Ultra-1-1152x603-2746006431.jpg",
+      "AssetFile": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\Devices\\S22-Ultra-1-1152x603-2746006431.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63001"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NIagoCkS3LdJy9vlvLZNNFC/AyTn3yWwF2IqMqFsElI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Nov 2024 06:32:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NIagoCkS3LdJy9vlvLZNNFC/AyTn3yWwF2IqMqFsElI="
+        }
+      ]
+    },
+    {
+      "Route": "Devices/zbook_studio_img2.08qftpzom4.jpg",
+      "AssetFile": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\Devices\\zbook_studio_img2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gKPXyuuenLIFQhniXcH171RL0W6+CPX5U1m7nps53tM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Nov 2024 06:11:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "08qftpzom4"
+        },
+        {
+          "Name": "label",
+          "Value": "Devices/zbook_studio_img2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gKPXyuuenLIFQhniXcH171RL0W6+CPX5U1m7nps53tM="
+        }
+      ]
+    },
+    {
+      "Route": "Devices/zbook_studio_img2.jpg",
+      "AssetFile": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\Devices\\zbook_studio_img2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gKPXyuuenLIFQhniXcH171RL0W6+CPX5U1m7nps53tM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Nov 2024 06:11:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gKPXyuuenLIFQhniXcH171RL0W6+CPX5U1m7nps53tM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 11 Nov 2024 22:57:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 11 Nov 2024 22:57:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "IMS.WebApp.bundle.scp.css",
+      "AssetFile": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\IMS.WebApp.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eR2CuSlKXGFwHG/s3LMe13HlGHCcU9OOPzKi/7RYlBE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Nov 2024 11:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eR2CuSlKXGFwHG/s3LMe13HlGHCcU9OOPzKi/7RYlBE="
+        }
+      ]
+    },
+    {
+      "Route": "IMS.WebApp.styles.css",
+      "AssetFile": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\IMS.WebApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eR2CuSlKXGFwHG/s3LMe13HlGHCcU9OOPzKi/7RYlBE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Nov 2024 11:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eR2CuSlKXGFwHG/s3LMe13HlGHCcU9OOPzKi/7RYlBE="
+        }
+      ]
+    },
+    {
+      "Route": "IMS.WebApp.tb957us49h.bundle.scp.css",
+      "AssetFile": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\IMS.WebApp.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eR2CuSlKXGFwHG/s3LMe13HlGHCcU9OOPzKi/7RYlBE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Nov 2024 11:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tb957us49h"
+        },
+        {
+          "Name": "label",
+          "Value": "IMS.WebApp.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eR2CuSlKXGFwHG/s3LMe13HlGHCcU9OOPzKi/7RYlBE="
+        }
+      ]
+    },
+    {
+      "Route": "IMS.WebApp.tb957us49h.styles.css",
+      "AssetFile": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\IMS.WebApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eR2CuSlKXGFwHG/s3LMe13HlGHCcU9OOPzKi/7RYlBE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Nov 2024 11:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tb957us49h"
+        },
+        {
+          "Name": "label",
+          "Value": "IMS.WebApp.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eR2CuSlKXGFwHG/s3LMe13HlGHCcU9OOPzKi/7RYlBE="
+        }
+      ]
+    },
+    {
+      "Route": "jsinterop.js",
+      "AssetFile": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\jsinterop.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "253"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"leyI0JzDDfm4BFO1s6hCrCQWA6W2czaD3DNX7iJin+Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 11 Nov 2024 22:57:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-leyI0JzDDfm4BFO1s6hCrCQWA6W2czaD3DNX7iJin+Q="
+        }
+      ]
+    },
+    {
+      "Route": "jsinterop.nh7uut2sfk.js",
+      "AssetFile": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\jsinterop.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "253"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"leyI0JzDDfm4BFO1s6hCrCQWA6W2czaD3DNX7iJin+Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 11 Nov 2024 22:57:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nh7uut2sfk"
+        },
+        {
+          "Name": "label",
+          "Value": "jsinterop.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-leyI0JzDDfm4BFO1s6hCrCQWA6W2czaD3DNX7iJin+Q="
+        }
+      ]
+    }
+  ]
+}

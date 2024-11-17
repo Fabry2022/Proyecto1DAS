@@ -1,0 +1,20 @@
+.search-result[b-0zpt0b9w3d] {
+    overflow-y: auto;
+    max-height: 300px;
+    border: 1px solid silver;
+    padding-top: 5px;
+}
+
+div ul[b-0zpt0b9w3d] {
+    list-style-type: none;
+    margin-bottom: 5px;
+    padding-left:10px;
+}
+
+div ul li[b-0zpt0b9w3d] {
+    cursor: pointer;
+}
+
+.selected[b-0zpt0b9w3d]{
+    background-color:antiquewhite;
+}

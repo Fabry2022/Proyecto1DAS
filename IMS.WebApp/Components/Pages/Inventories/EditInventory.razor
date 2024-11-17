@@ -1,0 +1,93 @@
+﻿@page "/editinventory/{invId:int}"
+
+@attribute [Authorize]
+
+@inject NavigationManager NavigationManager
+@inject IViewInventoryByIdUseCase ViewInventoryByIdUseCase
+@inject IEditInventoryUseCase EditInventoryUseCase
+
+<h3>Edit Inventory</h3>
+<br/>
+@if (this.inventory is not null)
+{
+    <EditForm Model="inventory" FormName="formInventory" OnValidSubmit="Update">
+        <DataAnnotationsValidator></DataAnnotationsValidator>
+        <ValidationSummary></ValidationSummary>
+
+        <InputNumber @bind-Value="inventory.InventoryId" hidden></InputNumber>
+
+        <div class="form-group">
+            <label for="name">Inventory Name</label>
+            <InputText id="name"
+                       @bind-Value="inventory.InventoryName"
+                       class="form-control">
+            </InputText>
+            <ValidationMessage For="() => inventory.InventoryName"></ValidationMessage>
+        </div>
+
+        <div class="form-group">
+            <label for="quantity">Quantity</label>
+            <InputNumber id="quantity"
+                         @bind-Value="inventory.Quantity"
+                         class="form-control">
+            </InputNumber>
+            <ValidationMessage For="() => inventory.Quantity"></ValidationMessage>
+        </div>
+
+        <div class="form-group">
+            <label for="price">Price</label>
+            <InputNumber id="price"
+                         @bind-Value="inventory.Price"
+                         class="form-control">
+            </InputNumber>
+            <ValidationMessage For="() => inventory.Price"></ValidationMessage>
+        </div>
+        <br />
+        <button type="submit" class="btn btn-primary">Update</button>
+        &nbsp;
+        <a href="/inventories" class="btn btn-primary">Cancel</a>
+    </EditForm>
+}
+
+@code {
+
+    [Parameter]
+    public int InvId { get; set; }
+
+    [SupplyParameterFromForm]
+    private InventoryViewModel? inventory { get; set; }
+
+    protected override async Task OnParametersSetAsync()
+    {
+        if (this.inventory is null)
+        {
+            var inv = await ViewInventoryByIdUseCase.ExecuteAsync(this.InvId);
+            inventory = new InventoryViewModel
+            {
+                    InventoryId = inv.InventoryId,
+                    InventoryName = inv.InventoryName,
+                    Price = inv.Price,
+                    Quantity = inv.Quantity
+            };
+        }
+
+    }
+
+    private async Task Update()
+    {
+        if (inventory is not null)
+        {
+            var inv = new Inventory
+            {
+                    InventoryId = inventory.InventoryId,
+                    InventoryName = inventory.InventoryName,
+                    Price = inventory.Price,
+                    Quantity = inventory.Quantity
+            };
+
+            await EditInventoryUseCase.ExecuteAsync(inv);
+            NavigationManager.NavigateTo("/inventories");
+        }        
+    }
+
+}

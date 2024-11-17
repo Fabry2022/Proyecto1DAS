@@ -1,0 +1,10 @@
+C:\Users\alons\.nuget\packages\chartjs.blazor.fork\2.0.2\contentFiles\any\netstandard2.1\wwwroot\ChartJsBlazorInterop.js
+wwwroot\app.css
+wwwroot\bootstrap\bootstrap.min.css
+wwwroot\bootstrap\bootstrap.min.css.map
+wwwroot\Devices\dell_ax51r2_9311bk_alienware_x51_r2_desktop_1132562-3415311556.jpg
+wwwroot\Devices\productos-para-vender-en-linea.jpg
+wwwroot\Devices\S22-Ultra-1-1152x603-2746006431.jpg
+wwwroot\Devices\zbook_studio_img2.jpg
+wwwroot\favicon.png
+wwwroot\jsinterop.js

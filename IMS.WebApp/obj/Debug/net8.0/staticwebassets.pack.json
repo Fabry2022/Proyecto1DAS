@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\alons\\.nuget\\packages\\chartjs.blazor.fork\\2.0.2\\contentFiles\\any\\netstandard2.1\\wwwroot\\ChartJsBlazorInterop.js",
+      "PackagePath": "staticwebassets\\ChartJsBlazorInterop.js"
+    },
+    {
+      "Id": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\IMS.WebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\IMS.WebApp.tb957us49h.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\Devices\\S22-Ultra-1-1152x603-2746006431.jpg",
+      "PackagePath": "staticwebassets\\Devices\\S22-Ultra-1-1152x603-2746006431.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\Devices\\dell_ax51r2_9311bk_alienware_x51_r2_desktop_1132562-3415311556.jpg",
+      "PackagePath": "staticwebassets\\Devices\\dell_ax51r2_9311bk_alienware_x51_r2_desktop_1132562-3415311556.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\Devices\\productos-para-vender-en-linea.jpg",
+      "PackagePath": "staticwebassets\\Devices\\productos-para-vender-en-linea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\Devices\\zbook_studio_img2.jpg",
+      "PackagePath": "staticwebassets\\Devices\\zbook_studio_img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\alons\\OneDrive\\Documents\\InventoryTechUDB\\IMS-Blazor-8-master\\IMS.WebApp\\wwwroot\\jsinterop.js",
+      "PackagePath": "staticwebassets\\jsinterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.IMS.WebApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.IMS.WebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.IMS.WebApp.props",
+      "PackagePath": "build\\IMS.WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.IMS.WebApp.props",
+      "PackagePath": "buildMultiTargeting\\IMS.WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.IMS.WebApp.props",
+      "PackagePath": "buildTransitive\\IMS.WebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

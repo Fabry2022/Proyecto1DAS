@@ -1,0 +1,148 @@
+﻿@page "/"
+@inject IViewInventoriesByNameUseCase ViewInventoriesByNameUseCase
+@inject IEditInventoryUseCase EditInventoryUseCase
+
+<PageTitle>Technology Inventory</PageTitle>
+
+<main>
+    <div class="bg-dark text-white p-5">
+        <header class="text-center mb-5">
+            <h1 class="text-uppercase">Technology Inventory</h1>
+            <p class="lead">Manage and view technological products in inventory.</p>
+        </header>
+
+        <section>
+            <h2 class="my-4 text-center">Available Products</h2>
+
+            <!-- Filter Buttons -->
+            <div class="text-center mb-4">
+                <button class="btn btn-outline-light m-1 filter-btn">Laptops</button>
+                <button class="btn btn-outline-light m-1 filter-btn">PCs</button>
+                <button class="btn btn-outline-light m-1 filter-btn">Smartphones</button>
+                <button class="btn btn-outline-light m-1 filter-btn">Tablets</button>
+            </div>
+
+            <!-- Inventory Grid -->
+            <div class="row">
+                @if (inventories == null)
+                {
+                    <div class="col-12 text-center">
+                        <!-- Loading spinner -->
+                        <div class="spinner"></div>
+                    </div>
+                }
+                else if (inventories.Count > 0)
+                {
+                    @foreach (var inv in inventories)
+                    {
+                        <div class="col-md-4 mb-4">
+                            <div class="card bg-dark text-white border-light shadow-lg product-card">
+                                <div class="card-img-container">
+                                    <img src="Devices/productos-para-vender-en-linea.jpg" class="card-img-top" alt="Image of @inv.InventoryName" style="height: 300px; object-fit: cover;">
+                                </div>
+                                <div class="card-body">
+                                    <h5 class="card-title">@inv.InventoryName</h5>
+                                    <p class="card-text">Brief description of the product: @inv.InventoryName, @inv.Quantity units available.</p>
+                                    <p><strong>Available: @inv.Quantity units</strong></p>
+                                    <p class="text-muted">Price: @inv.Price.ToString("C")</p>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                }
+                else
+                {
+                    <div class="col-12 text-center">
+                        <p>No products available in the inventory at the moment.</p>
+                    </div>
+                }
+            </div>
+        </section>
+    </div>
+</main>
+
+<footer class="bg-dark text-white text-center py-4 mt-5">
+    <p class="lead">&copy; 2024 Technology Inventory UDB | All rights reserved</p>
+    <div>
+        <a href="https://www.UDB.com" class="text-white mx-3" target="_blank">Privacy Policy</a>
+        <a href="https://www.UDBVIRTUAL.com" class="text-white mx-3" target="_blank">Terms of Service</a>
+    </div>
+</footer>
+
+@code {
+    private List<Inventory>? inventories;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var inventory = new Inventory { InventoryId = 2, InventoryName = "PC", Quantity = 50, Price = 150 };
+        await EditInventoryUseCase.ExecuteAsync(inventory);
+        inventories = (await ViewInventoriesByNameUseCase.ExecuteAsync()).ToList();
+    }
+}
+
+<style>
+    /* General improvements to product card hover effects */
+    .product-card {
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        border-radius: 10px; /* Rounded corners for a smoother look */
+        overflow: hidden; /* Prevents the image from spilling over rounded edges */
+    }
+
+        .product-card:hover {
+            transform: scale(1.05); /* Slight zoom effect */
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Softer shadow */
+        }
+
+    /* Product image container to center image */
+    .card-img-container {
+        position: relative;
+        width: 100%;
+        height: 300px; /* Fixed height */
+        overflow: hidden;
+    }
+
+    .card-img-top {
+        object-fit: cover; /* Ensures the image covers the area without distortion */
+        width: 100%;
+        height: 100%;
+    }
+
+    /* Hover effects for filter buttons */
+    .filter-btn {
+        transition: all 0.3s ease;
+        border-radius: 20px; /* Rounded button corners */
+    }
+
+        .filter-btn:hover {
+            transform: scale(1.1);
+            background-color: #ffffff;
+            color: #000000;
+        }
+
+    /* Add some space for the footer */
+    footer {
+        position: relative;
+        bottom: 0;
+        width: 100%;
+    }
+
+    /* Spinner animation */
+    .spinner {
+        animation: spin 1s infinite linear;
+        border: 4px solid transparent;
+        border-top: 4px solid white;
+        border-radius: 50%;
+        width: 30px;
+        height: 30px;
+        margin: auto;
+    }
+
+    {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+
+    }</style>
